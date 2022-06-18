@@ -1,0 +1,71 @@
+    1  clear
+    2  git log
+    3  git log --pretty=oneline
+    4  git log -p
+    5  git branch
+    6  git reset HEAD~2
+    7  git log
+    8  git checkout -b feature
+    9  git branc
+   10  git branch
+   11  touch Nova-feature
+   12  gitstarus
+   13  git estatus
+   14  git status
+   15  git add .
+   16  git status
+   17  git log
+   18  git revert add.
+   19  git revert add
+   20  git revert
+   21  git status
+   22  git revert staged
+   23  git restored -- staged
+   24  git status
+   25  git checkout master
+   26  git log
+   27  git checkout feature
+   28  git commit -m 'adicionando aula-3, Nova -Feature, participantes.txt'
+   29  git log
+   30  git branch
+   31  touch Continuando na feature
+   32  git status
+   33  echo ' testando fazer commit'
+   34  git status
+   35  git add 'Continuando na feature'
+   36  git add Continuando na feature 
+   37  git status
+   38  git log
+   39  gir coomit -m 'teste master'
+   40  git commit -m 'teste feature'
+   41  git status
+   42  git log --pretty=oneline
+   43  git log --pretty=oneline --graph
+   44  git merge master
+   45  git merge feature
+   46  git reset --HEAD~4
+   47  git log
+   48  git log
+   49  git log --pretty=oneline 
+   50  git merge master
+   51  git rebase master
+   52  git resert -- hard HEAD~4
+   53  git revert --hard HEAD~4
+   54  git log
+   55  git log 
+   56  git merge master
+   57  git log --pretty=oneline 
+   58  clear
+   59  git config --global alias.logpg 'log --pretty=oneline --graph'
+   60  git logpg
+   61  git config alias.CAM 'commit -am'
+   62  git CAM
+   63  git config alias.CAM 'commit -am '
+   64  git CAM
+   65  git tag
+   66  git tag -a v0.1 -m 'Só testes'
+   67  git logpg 
+   68  git checkout master
+   69  git merge feature
+   70  git log
+   71  history > Aula-6.txt
